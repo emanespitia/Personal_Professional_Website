@@ -1,0 +1,50 @@
+img
+{
+    width: 4in;
+    height: 4in;
+}
+body
+{
+    text-align: center;
+}
+h1
+{
+    font-size:50px;
+}
+h3
+{
+    font-size: x-large;
+}
+a:link
+{
+    text-decoration: none;
+    display: inline-block;
+    background-color: white ;
+    color:#ec8295 ;
+    border-radius: 4px;
+    padding: 10px 24px;
+    border-color:#ececec;
+    border-style: solid;
+}
+a:visited
+{
+    text-decoration: none;
+    color:#ec8295 ;
+    border-color: #ececec;
+}
+a:hover
+{
+    text-decoration: none;
+    background-color: #a9a9ba ;
+    color:#9f2042 ;
+    padding: 10px 24px;
+    border-radius: 5px;
+    border-color: #ececec;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.list
+{
+    text-align: left;
+}
