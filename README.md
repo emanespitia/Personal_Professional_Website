@@ -1,5 +1,14 @@
 # SuperPortfolio
 
+## Table of Contents
+
+    -[Project Description](#project-discription)
+    
+    -[Steps for installing and running](#steps-for-installing-and-running)
+
+    -[Usage](#usage)
+
+    -[Features](#features)
 
 
 ## Project Discription
@@ -13,13 +22,13 @@
 
 
 
-# downloading the ZIP
+### downloading the ZIP 
 
     First you need to use the git hub link and access the repository with the projecty in it. Once you open the link you should see a green button that says code. Once you click the button there is different ways you can do this. You can download the ZIP and then go into your finder(for mac) or file explorer(for windows) and open the zip file. Once the ZIP file is open There will be a HTML file within it named index.html. You want to click that file and open it with your browser. You can also drage that file into your browser. 
 
 
 
-# Cloning with HTTPS URL
+### Cloning with HTTPS URL
     If you want to clone the repository you will need visual studio code. You will open visual studio code and then in a new terminal that can run git commands you will type "git clone https://github.com/emanespitia/Personal_Professional_Website.git" This will clone the repository ontoyour device and you will have all the files as well. Next in order to view the webpage you will go to where the files are stored in your device and once again open index.html with your browser or you can drag the file intop your web browser as well. 
 
 
@@ -32,7 +41,7 @@
 
 ## Features
 
-    - **Form:** In my webpage there is a form at the bottom that lets you type in a message in order to connect with me.
+    ** Form: ** In my webpage there is a form at the bottom that lets you type in a message in order to connect with me.
 
-    - **Buttons:** The Links to my pages such as linkedin and githun are buttons that darken when hovered over and go back to normal when not being interacted with. 
+    __ Buttons __: The Links to my pages such as linkedin and githun are buttons that darken when hovered over and go back to normal when not being interacted with. 
 
